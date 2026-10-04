@@ -31,7 +31,7 @@ The model achieved **58.2% accuracy** on the test split used during this experim
 2. Install the required libraries:
    `pip install pandas scikit-learn`
 3. Download and extract the dataset from Kaggle.
-4. Place the dataset folder in the project directory.
+4. 4. Extract the downloaded dataset and place the `Genre Classification Dataset` folder in the same directory as `movie_genre_classifier.py`. Make sure `train_data.txt` is inside that folder.
 5. Run:
    `python movie_genre_classifier.py`
 
